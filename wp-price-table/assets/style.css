@@ -1,0 +1,4 @@
+.pt-table {width:100%;border-collapse:collapse;}
+.pt-table th,.pt-table td{border:1px solid #ccc;padding:8px;}
+.pt-info{position:relative;cursor:pointer;display:inline-block;margin-left:5px;}
+.pt-info .pt-desc{display:none;position:absolute;left:100%;top:0;background:#fff;border:1px solid #ccc;padding:5px;width:200px;z-index:10;}
